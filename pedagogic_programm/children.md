@@ -149,7 +149,7 @@ Netoyage à l'eau du robinet puis bétadine ou alcool modifié si allergie à la
 
 Ce sont nos capacités de résilience, de créativité et de collaboration qui nous différencient (encore) de la machine et qui nous permettent de produire d’autres choses, aidés par la machine. Ce sont ces capacités qui doivent être développées par une école moderne.
 
-## travail de créativité et restitution
+## Travail de créativité et restitution
 
 Réalisé par les participants eux-mêmes en collaborations avec des artistes + Fablabs et en accompagnement par des personnels éducatifs
 Pour une scénographie publique qui rendra compte de leur travaux et propostions d'axes de réléxions en fin de programme.
