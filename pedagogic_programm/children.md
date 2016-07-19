@@ -45,8 +45,6 @@ Cette activité vise :
 * Observer à son milieu de vie et le protèger
 * Sensibilités environnementales et transmissions
 
-## Stratégies pédagogiques
-
 
 ### Expérimentation
 
@@ -60,7 +58,7 @@ Elle court également sur plusieurs semaines en focntion des disponibilités mai
  + 1 personne du milieu éducatif pour 20 enfants, soit 4 projets de colonne maximum par prof.
  + 2 Biomers intervenants
 
-     Equipe-projet = 6 à 8 personnes
+     **Equipe-projet = 6 à 8 personnes**
 
 Favoriser la constituion des équipe-projets par les enfants eux-mêmes; Possibilités de s'appuyer sur différentes méthodes d'animations.
 
