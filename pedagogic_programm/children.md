@@ -53,10 +53,16 @@ Cette activité vise :
 L'activité se déroule sur plusieurs temps, les changements visuels de la colone ne se faisant qu'avec lenteur .
 
 * Composition des équipes
+ * une ou plusieurs équipe-projets de 4 à 5 enfants
+ * 1 personne du milieu éducatif pour 20 enfants, soit 4 projets de colonne maximum
+ * 2 Biomers intervenants
+ 
+Favoriser la constituion des équipe-projets par les enfants eux-mêmes; Possibilités de s'appuyer sur différentes méthodes d'animations.
 
-* Réalisation collaborative du draft
-*
-D'abord, chaque élève (ou chaque équipe) se munit d'un vase en verre transparent d'environ 3 cm de diamètre et 30 centimètres de hauteur. Les élèves y placent une certaine quantité de sol provenant d'un environnement choisi: l'enseignant peut prédéterminer le site d'échantillonnage ou laisser libre choix aux élèves. La provenance de l'échantillon de sol est importante, question de respecter la "démarche scientifique". On suggère un remplissage de la colonne sur une hauteur de 15 cm. Les élèves ou l'enseignant prélèvent ensuite une quantité d'eau suffisante pour couvrir le sol de 3 à 4 cm. L'eau doit provenir du fleuve Saint-Laurent, d'une rivière, d'un lac, d'un marais, etc... .Il faut éviter l'eau chlorée du robinet puisqu'elle ne contient en principe que très peu de micro-organismes. L'expérimentation commence.
+* Réalisation collaborative du draft de colonne
+
+Chaque équipe se munit de l'équipement de abse nécessaire et de fiches pédagogiques fournies.
+. L'expérimentation commence.
 
 * L'expérimentation commence.
 
@@ -67,7 +73,6 @@ Les élèves peuvent effectuer une recherche pour déterminer quel type de micro
 
 ## ressources nécessaires
 
-* Biochimie et ressource provenant du milieu naturel
 
     * une boue noire (car riche en sulfure de fer) provenant d'un tourbière par exemple ;
     * de l'eau stagnante (d'un marécage par exemple) ;
@@ -81,12 +86,26 @@ Les élèves peuvent effectuer une recherche pour déterminer quel type de micro
 
 Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogénophosphate disodique anhydre (soit 9,47 g de Na2HPO4 par litre) et une solution de dihydrogénophosphate de potassium (soit 9,08 g de KH2PO4 par litre). Ensuite, on mélange 143 mL de Na2HPO4 avec 57 mL de KH2PO4 pour obtenir un pH de 7,3.
 
-* Espace pour entreposer les colonnes
+    * Espace pour entreposer les colonnes
+    * Accés internet : consultation de ressource, documentation des prototypes et des observations
 
+   
+Pour la restitution collective finale :
+
+    * Tube en plexiglass pour faire colonne de Winogradsky taille XL
+    * 1 Arduino uno
+    * Bande à led multicolore
+    * Collaboration avec un espace de fabrication numérique
 
 
 ## Sécurité de travail
-On ne peut pas qualifier la colonne de toxique. Elle présente toutefois un certain degré de contamination. Il est donc recommandé de porter des gants durant les manipulations. En cas de dégât il faudra nettoyé à l'alcool 70%
+
+La colonne ne présente pas de rsique toxique. 
+La culture bactérienne présente toutefois un certain degré de contamination sur la flore bacterienne humaine. nous  recommandons de porter des gants latex durant les manipulations. 
+
+En cas de salissure : nettoyer à l'eau du robinet
+
+En cas de contact avec une plaie : netoyage à l'eau du robinet puis bétadine ou alcool modifié si allergie à la bétadine. Informer sur la tenue à jour de la veccination DTP
 
 évaluation
 L'enseignant peut évaluer la qualité des observations des élèves. Ceux-ci peuvent avoir noté le changement des différentes couches en dessinant la colonne à chaque semaine ou en décrivant qualitativement son évolution. L'enseignant peut également exiger un bref rapport représentant la synthèse de l'expérimentation.
