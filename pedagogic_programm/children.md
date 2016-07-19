@@ -118,15 +118,15 @@ Une décision finale est entérinée par consensus puis mise [accélaration de p
 
 Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogénophosphate disodique anhydre (soit 9,47 g de Na2HPO4 par litre) et une solution de dihydrogénophosphate de potassium (soit 9,08 g de KH2PO4 par litre). Ensuite, on mélange 143 mL de Na2HPO4 avec 57 mL de KH2PO4 pour obtenir un pH de 7,3.
 
-   * Espace pour entreposer les colonnes
-   * Accés internet : consultation de ressource, documentation des prototypes et des observations
+    * Espace pour entreposer les colonnes
+    * Accés internet : consultation de ressource, documentation des prototypes et des observations
 
 Pour la restitution collective finale :
 
-   * Tube en plexiglass pour faire colonne de Winogradsky taille XL
-   * 1 Arduino uno
-   * Bande à led multicolore
-   * Collaboration avec un espace de fabrication numérique
+    * Tube en plexiglass pour faire colonne de Winogradsky taille XL
+    * 1 Arduino uno
+    * Bande à led multicolore
+    * Collaboration avec un espace de fabrication numérique
 
 ## Sécurité de travail
 
