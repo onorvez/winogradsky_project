@@ -1,5 +1,5 @@
 
-Niveaux scolaires minimum equis : premier cycle
+Niveau scolaire minimum equis : premier cycle
 
 ## Résumé de l'activité :
 Cette activité vise à créer un micro-environnement rappelant le sol et permettant de jouer avec différentes variables caractérisant celui-ci.
