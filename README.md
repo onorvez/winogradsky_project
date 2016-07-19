@@ -12,9 +12,10 @@
 
 ###_Be happy to fork it on github_
 
+![](https://framapic.org/QxzLrXWSTrJL/IQsUaaMP3fvQ)
 
-
-_English version bellow_
+Read ME !
+_Version française ici & English version bellow_
 
 ## Dans ces dépôts sont développés collaborativement :
 
