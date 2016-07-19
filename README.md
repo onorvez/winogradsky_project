@@ -1,8 +1,8 @@
 # Winogradsky Project
 
-From a Winogradsky column we make citizen science, eco hacking, interdisciplinary pedagogic program, Design &amp; Art stuff
+**ENG** : From a Winogradsky column we make citizen science, eco hacking, interdisciplinary pedagogic program, Design &amp; Art stuff
 
-A partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'éco Hacking, un programme pédagogique interdisciplinaire , des trucs d'art et du Design.
+**FR** : A partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'éco Hacking, un programme pédagogique interdisciplinaire , des trucs d'art et du Design.
 
 * What' a Winogradsky column :
  * [English wiki](https://en.wikipedia.org/wiki/Winogradsky_column)
@@ -11,6 +11,8 @@ A partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'�
 ###_Feel Free to contribute_
 
 ###_Be happy to fork it on github_
+
+
 
 _English version bellow_
 
