@@ -67,6 +67,7 @@ Chaque équipe se munit de l'équipement de abse nécessaire et de fiches pédag
 * L'expérimentation commence.
 
 Chaque colonne devra subir le même traitement et les élèves doivent noter les changements visuels remarqués dans leur colonne selon un échéancier régulier (à chaque période de science, à chaque semaine, à la discrétion de l'enseignant). Ces colonnes devront être rangées dans un local équipé de lampes incandescentes (quelques ampoules de 100 watts peuvent suffire) et l'enseignant sera responsable d'y reproduire le jour et la nuit. Le sol est ainsi exposé à une chaleur et une luminosité imitant le rythme circadien, (rythme biologique de 24 heures) permettant aux différents microorganismes de se développer dans la colonne.
+![](https://listes.u-picardie.fr/wws/d_read/unidiversite/ENSEIGNEMENTS/MicrobiologieEnviro&Industrielle/TD/WINOGRADSKY.pdf)
 
 Après quelques semaines (et parfois déjà après quelques jours), des changements notoires sont visibles dans la colonne. À différentes hauteurs, des couleurs apparaissent, des odeurs de soufre sont perceptibles, des textures se développent et des bulles de gaz s'échappent. La colonne rappelle de plus en plus le petit monde présent dans le sol : elle se transforme en un joyeux modèle de ce qui se passe tous les jours sous nos pieds!
 Les élèves peuvent effectuer une recherche pour déterminer quel type de microorganisme s'anime dans leur colonne (algues, bactéries, champignons, levures, etc)? Il peuvent aussi soumettre le sol à quelque traitement toxique (ajout d'essence, de pétrole, de vinaigre, de décapant à peinture) pour en étudier les effets. Ils peuvent aussi isoler un microorganisme présent dans une des couches du sol (obtenir le matériel nécessaire pour faire pousser un champignon microscopique ou une levure) et tenter de le caractériser. L'expérience est riche d'enseignement.
@@ -100,24 +101,34 @@ Pour la restitution collective finale :
 
 ## Sécurité de travail
 
-La colonne ne présente pas de rsique toxique. 
-La culture bactérienne présente toutefois un certain degré de contamination sur la flore bacterienne humaine. nous  recommandons de porter des gants latex durant les manipulations. 
+La colonne ne présente pas de risque toxique. 
+La culture bactérienne présente toutefois un certain degré de contamination sur la flore bacterienne humaine. Nous  recommandons de porter des gants latex durant les manipulations. 
 
-En cas de salissure : nettoyer à l'eau du robinet
+* En cas de salissure : 
 
-En cas de contact avec une plaie : netoyage à l'eau du robinet puis bétadine ou alcool modifié si allergie à la bétadine. Informer sur la tenue à jour de la veccination DTP
+nettoyer à l'eau du robinet
 
-évaluation
-L'enseignant peut évaluer la qualité des observations des élèves. Ceux-ci peuvent avoir noté le changement des différentes couches en dessinant la colonne à chaque semaine ou en décrivant qualitativement son évolution. L'enseignant peut également exiger un bref rapport représentant la synthèse de l'expérimentation.
+* En cas de contact avec une plaie : 
 
-##  Travail de création 
+Netoyage à l'eau du robinet puis bétadine ou alcool modifié si allergie à la bétadine. Informer sur la tenue à jour de la veccination DTP
 
-Réalisé par les participants eux-mêmes en collaborations avec des artistes et Fablabs et en accompagnement par des personnels éducatifs
-pour une scénographie qui rendra compte de leur travaux et propostions d'axes de réléxions en fin de programme.
+## Valorisation et Pairmutation du travail
+
+* Le travail peut être inclu aux prorgammes Science / DD / TPE / techno / Art des élèves
+* Valorarisation pur réflexion sociétale: Selon S. Winogradsky, « le fonctionnement de la microflore ne devait pas être envisagé comme la somme des activités individuelles, mais comme le travail d'un collectif autoréglable"
+* La durée de vie de la colone permet de transmettre aux années scolaires suivantes
+* Croisement avec les [travaux de l'agence spatiale européen sur l'ISS en 2013](http://www.esa.int/fre/ESA_in_your_country/Belgium_-_Francais/L_ISS_recoit_du_materiel_scientifique_incluant_la_premiere_experience_concue_par_des_etudiants_europeens)
+* 
+
+## travail de créativité 
+
+Réalisé par les participants eux-mêmes en collaborations avec des artistes + Fablabs et en accompagnement par des personnels éducatifs
+Pour une scénographie qui rendra compte de leur travaux et propostions d'axes de réléxions en fin de programme.
 
 * E. Coli : 3D printing
 * Diatomée : 3D printing ou Dession à la bio-encre
 * une colone de Winogradsky + arduino + leds pour mise en exergue 
+* Des illsutrations libres à la main texte lyrique pour esthétiser les rendus
 
 
 
