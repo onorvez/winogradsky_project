@@ -55,6 +55,8 @@ L'activité se déroule sur plusieurs temps, les changements visuels de la colon
 * Composition des équipes
 
 * Réalisation collaborative du draft
+*
+D'abord, chaque élève (ou chaque équipe) se munit d'un vase en verre transparent d'environ 3 cm de diamètre et 30 centimètres de hauteur. Les élèves y placent une certaine quantité de sol provenant d'un environnement choisi: l'enseignant peut prédéterminer le site d'échantillonnage ou laisser libre choix aux élèves. La provenance de l'échantillon de sol est importante, question de respecter la "démarche scientifique". On suggère un remplissage de la colonne sur une hauteur de 15 cm. Les élèves ou l'enseignant prélèvent ensuite une quantité d'eau suffisante pour couvrir le sol de 3 à 4 cm. L'eau doit provenir du fleuve Saint-Laurent, d'une rivière, d'un lac, d'un marais, etc... .Il faut éviter l'eau chlorée du robinet puisqu'elle ne contient en principe que très peu de micro-organismes. L'expérimentation commence.
 
 * L'expérimentation commence.
 
@@ -92,7 +94,7 @@ L'enseignant peut évaluer la qualité des observations des élèves. Ceux-ci pe
 ##  Travail de création 
 
 Réalisé par les participants eux-mêmes en collaborations avec des artistes et Fablabs et en accompagnement par des personnels éducatifs
-pour une scénographie qui rendra compte de leur travaux et propostions d'axes de réléxions.
+pour une scénographie qui rendra compte de leur travaux et propostions d'axes de réléxions en fin de programme.
 
 * E. Coli : 3D printing
 * Diatomée : 3D printing ou Dession à la bio-encre
