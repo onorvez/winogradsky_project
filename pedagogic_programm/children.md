@@ -141,7 +141,7 @@ Netoyage à l'eau du robinet puis bétadine ou alcool modifié si allergie à la
 
 ## Valorisation et Pairmutation du travail
 
-* Le travail peut être inclu aux prorgammes Science / DD / TPE / techno / Art des élèves
+* Le travail peut être inclu aux prorgammes scolaires : Science / DD / TPE / techno / Art 
 * Valorarisation pur réflexion sociétale: Selon S. Winogradsky, « le fonctionnement de la microflore ne devait pas être envisagé comme la somme des activités individuelles, mais comme le travail d'un collectif autoréglable"
 * La durée de vie de la colone permet de transmettre aux années scolaires suivantes
 * Croisement avec les [travaux de l'agence spatiale européen sur l'ISS en 2013](http://www.esa.int/fre/ESA_in_your_country/Belgium_-_Francais/L_ISS_recoit_du_materiel_scientifique_incluant_la_premiere_experience_concue_par_des_etudiants_europeens)
