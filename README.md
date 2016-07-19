@@ -4,6 +4,8 @@
 
 **FR** : A partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'éco Hacking, un programme pédagogique interdisciplinaire , des choses sympathiques d'art et Design.
 
+![](https://framapic.org/w3T4igSgisol/FcgFzZMBZC4n)
+
 * What' a Winogradsky column :
  * [English wiki](https://en.wikipedia.org/wiki/Winogradsky_column)
  * [French Wiki](https://fr.wikipedia.org/wiki/Colonne_de_Winogradsky)
@@ -11,8 +13,6 @@
 ###_Feel Free to contribute_
 
 ###_Be happy to fork it on github_
-
-![](https://framapic.org/QxzLrXWSTrJL/IQsUaaMP3fvQ)
 
 Read ME !
 
@@ -36,3 +36,5 @@ L'ensemble des ces dépots sont enregistrés sous licence:
 D'autres licences et d'autres droits peuvent s'appliquer à des codes, formulent, documents, ressources, contenus à l'intérieur de ces dépôts.
 
 Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+
+![](https://framapic.org/QxzLrXWSTrJL/IQsUaaMP3fvQ)
