@@ -111,9 +111,10 @@ Une décision finale est entérinée par consensus puis mise [accélaration de p
     * du papier cellophane ;
     * des morceaux de papier filtre, des agitateurs, des bracelets de caoutchouc ;
     * une source lumineuse (de couleur rouge de préférence) ;
-   * deux gélules de polyvitamines ;
-   * plusieurs solutions : hydrogénocarbonate de sodium (NaHCO3), carbonate de calcium (CaCO3), sulfate de calcium (CaSO4), chlorure d'ammonium (NH4Cl) ;
-   * une solution tampon phosphate pH 7,3
+    * deux gélules de polyvitamines ;
+    * solutions : hydrogénocarbonate de sodium (NaHCO3), carbonate de calcium (CaCO3), 
+    sulfate de calcium (CaSO4), chlorure d'ammonium (NH4Cl) ;
+    * une solution tampon phosphate pH 7,3
 
 Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogénophosphate disodique anhydre (soit 9,47 g de Na2HPO4 par litre) et une solution de dihydrogénophosphate de potassium (soit 9,08 g de KH2PO4 par litre). Ensuite, on mélange 143 mL de Na2HPO4 avec 57 mL de KH2PO4 pour obtenir un pH de 7,3.
 
