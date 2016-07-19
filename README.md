@@ -25,7 +25,7 @@ _Version française ici & English version bellow_
 * Les programmes pédagogiques
 * Les réalisations web
 * Les explorations scientifiques
-* Une bibliothèque de ressources techniques, sceintifiques, théses
+* Une bibliothèque de ressources techniques, scientifiques, théses
 
 ## Licence
 
