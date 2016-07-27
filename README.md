@@ -33,7 +33,7 @@ L'ensemble des ces dépots sont enregistrés sous licence:
 
 [GNU Affero General Public License , version 3](https://fr.wikipedia.org/wiki/GNU_Affero_General_Public_License)
 
-D'autres licences et d'autres droits peuvent s'appliquer à des codes, formulent, documents, ressources, contenus à l'intérieur de ces dépôts.
+D'autres licences et d'autres droits peuvent s'appliquer à des codes, formules, documents, ressources, contenus à l'intérieur de ces dépôts.
 
 Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
 
