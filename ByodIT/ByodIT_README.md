@@ -39,7 +39,10 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 # 1st step / 1ère étape 
 
-
+Monter un colone de Winogradsky
+Implementer un dispositif arduino avec capteurs pour mesurer en temps réel univers de données dans 7 zones différentes
+Connecter un Raspberry Pi pour traiter ces données, les placer dans un cloud sous licence publique.
+Transformer ces données en code puis en langage qui sera exprimé par des variations de couleurs dans les vétégaux et sur le sol un jardin publique au centre duquel trône la colonne.
 
 ![](https://framapic.org/YTzJrBtdoCJI/x3K3lyGGkRNd)
 
@@ -66,3 +69,68 @@ Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogén
 * 7 Bandes à led multicolore
 * Collaboration avec un espace de fabrication numérique
 
+## 2dn step / 2ème étape
+
+Le dispositif intéragit avec les influences des activités humaines sur le jardin publique car elles moditfient la vie de la microflore de l'espace.
+Le dispositif en construit, implanter et mis en ouevre par des pairs avec des outils numériques
+Les données collectées servent à établir les bases d'un smart contract pour intercommuniquer avec d'autres dispositifs connectés présents ailleurs sur la planète.
+UN comportement collectif adaptatif se met en place entre ByodIT et les humains fréquentant l'espace. Un démarrage de ce type de comprtement se met en place avec des pair de ByodIT.
+
+![](https://framapic.org/jNriir8fuuMF/BJI0YIpaeJMB)
+
+* Highliht the bacterial microflora of soil, micro algae in the earth, with interactive digital interface
+* Aesthetize their roles in the balace of ecosystems
+* Integrate it to a blockhain to exchange digital nutrients
+
+## 3rd step / 3ème étape
+
+De nouveaux dispositifs ByodIT sont créés dans d'autres villes et ils sont mis en réseaux d'intéractions. 
+Le recueil et l'analyse de données de différents dispositifs ByodIT permettent de mesurer et comprendre la production d'énergie et de matière dans le dispositif.
+Les contrats intelligents et les implications de jardiniers numériques ou physiques sur le résaux permettent d'engager une communauté de pratiques.
+Cela permet de générer des fonds nécessaires à l'entretien des dispositifs vivants et au dévelopement de nouvelles instalations.
+Le recueil de l'analyse de données des inétractions via Blockchain des diférents dispositifs pairs permettent de comparer ces besoins en énergie avec les ressources en énergies produites.
+
+![](https://framapic.org/bJPjDlg7gOLj/bjG8Kx50VLSs)
+
+* Echanger au delà de l'échelle locale
+* Grandir et développer le réseau de dispositif hybride
+* Engager des communautés de pratiques, générer un roulement financier basé sur la confiance humain/capital naturel/tech
+* Préparer les conditions d'équilibre et d'indépendance pour des études scientifiques citoyennes à aprtir des différentes instalations.
+
+## 4th step / 4ème étape
+
+Itération sur les précédentes étapes et les forks possiblement réalisés
+Itération sur les futurs possibles des dispositifs et des réseaux
+
+![](https://framapic.org/shTPGB8BtlfG/TDIwMAYhEErP)
+
+* Formaliser la contribution des experimentation à l'amélioration écologique de Blockchain
+* Consolider les documentations et ressources à dispositions
+* M.A.J des des dispositifs concernés
+* Prépartion d'une opération à grande échelle de DNA barcoding de microflore endémqiue sur les térritoires impliqués // sanctuarisation du patrimoine génétique des espèces, compréhension du vivant.
+* Tests des dispostifs autonomes en énergie grâce à l'activité interne de l'installation (ByodIT + jardin)
+* Mise en place de protocole expérimentaux de fourniture en énergie autonome propre pour blockchain à partir des prodctions des installations.
+
+## 5ht step / 5ème étape
+
+Le dialogue entre la microflore bactérienne et les personnes fréquant physiquement l'espace est prêt à être augmenté (VR, AR, nouveaux vocabulaire etc.)
+Une version 1.0 est prête à être passée à l'échelle avec des solutions énergétiques souples et adaptées.
+Les conditions sont réunies pour lancer différentes études scientifiques citoyennes.
+
+La biodiversité des sols qui représente une écarsante majorité des organisme vivant de la planète, et donc des enjeux societaux immenses, est mise au niveau de d'intéraction et de protection équivalent à dautres espéces plus grandes et en capacité d'expression perceptibles.
+
+Des actions de ré-investissement dans le capital naturel par culture de microflore sont facielemnt accessibles, reprodcutibles et appropriables.
+
+Une Database internationale à la disposition de tous.
+Une preuve de concept de prodcution d'énergie propre et autoconsommation est fournie comme un Commun.
+Une amélioration écologique à la Blockchain est co-construite.
+
+La diversité des dispositifs inspirés par ByodIT peut exploser et se répendre.
+
+![](https://framapic.org/1V6x3SEU6J8Q/1bbPDnMRZrGd)
+
+
+> "The commons is not a resource. It is a resource plus a defined community and the protocols, values and norms devised by the community to manage its resources. Many resources urgently need to be managed as commons, such as the atmosphere, oceans, genetic knowledge and biodiversity." 
+By [Common Sense - An online documentary](https://www.opendesk.cc/blog/common-sense-an-online-documentary?utm_campaign=invest&utm_source=email&utm_content=documentary)
+
+> « Les biens communs ne sont pas q'une ressource . Ils sont une ressource plus une communauté définie et ldes protocoles, des valeurs et des normes élaborées par la communauté pour gérer ses ressources . De nombreuses ressources ont un besoin urgent d'être gérées comme biens communs , tels que l'atmosphère , les océans , les connaissances génétiques et de la biodiversité."
