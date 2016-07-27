@@ -18,6 +18,8 @@ Nous essayons de rester en accord avec le [We Are Biomers Manifesto](https://git
 
 Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project)
 
+![](https://framapic.org/dda8yS5yboM4/Ix5IwkyweOI1)
+
 _**Installations, temps d'accélération et collaborations en prévision**_ :
 
 * 2016
