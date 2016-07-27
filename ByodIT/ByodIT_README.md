@@ -24,7 +24,7 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 * Rendre esthétique et contemplable ces repréentants // On en protège que ce que l'on connait et ce que l'on aime.
 * Utiliser et enrichir une technologie émergente et acculturer à ses implications // coder ou être codés
 * Enclencher un  programme de sciences citoyennes // Biologie, SHS, recheche eh design, énergie..
-* Co-concevoir des briques de systèmes énergétique autonome acentralisés biosourcés et préparer une économie de l'après pétrole
+* Co-concevoir des briques de systèmes énergétiques autonomes acentralisés biosourcés et préparer une économie de l'après pétrole
 
 ## Une culture de l'action comprenant / A culture of action including :
 
@@ -33,3 +33,10 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 * Do It With Others (DIWO) par 
 * Learning by doing
 * Open source devlopment
+
+## Philosophie / Philosophie
+
+
+# 1st step / 1ère étape 
+
+![](https://framapic.org/YTzJrBtdoCJI/x3K3lyGGkRNd)
