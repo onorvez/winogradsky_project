@@ -95,7 +95,7 @@ UN comportement collectif adaptatif se met en place entre ByodIT et les humains 
 
 * Highliht the bacterial microflora of soil, micro algae in the earth, with interactive digital interface
 * Aesthetize their roles in the balace of ecosystems
-* Integrate it to a blockhain to exchange digital nutrients
+* Integrate it into a blockhain to exchange digital nutrients
 
 ## 3rd step / 3ème étape
 
