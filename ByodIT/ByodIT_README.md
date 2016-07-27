@@ -52,6 +52,10 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 * [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md), Fr
 
+
+Wanna help, join, question ?
+Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+
 # 1st step / 1ère étape 
 
 Monter un colone de Winogradsky
@@ -96,6 +100,11 @@ UN comportement collectif adaptatif se met en place entre ByodIT et les humains 
 * Highliht the bacterial microflora of soil, micro algae in the earth, with interactive digital interface
 * Aesthetize their roles in the balace of ecosystems
 * Integrate it into a blockhain to exchange digital nutrients
+
+Connexion :
+
+* [Plantoid](http://www.plantoid-project.eu/)
+* [FloraRobotica](http://www.florarobotica.eu/) 
 
 ## 3rd step / 3ème étape
 
