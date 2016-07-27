@@ -34,8 +34,9 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 * Learning by doing
 * Open source devlopment
 
-## Philosophie / Philosophie
+## Philosophie / Philosophy
 
+* [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md), Fr
 
 # 1st step / 1ère étape 
 
@@ -130,7 +131,9 @@ La diversité des dispositifs inspirés par ByodIT peut exploser et se répendre
 ![](https://framapic.org/1V6x3SEU6J8Q/1bbPDnMRZrGd)
 
 
-> "The commons is not a resource. It is a resource plus a defined community and the protocols, values and norms devised by the community to manage its resources. Many resources urgently need to be managed as commons, such as the atmosphere, oceans, genetic knowledge and biodiversity." 
+
+
+ "The commons is not a resource. It is a resource plus a defined community and the protocols, values and norms devised by the community to manage its resources. Many resources urgently need to be managed as commons, such as the atmosphere, oceans, genetic knowledge and biodiversity." 
 By [Common Sense - An online documentary](https://www.opendesk.cc/blog/common-sense-an-online-documentary?utm_campaign=invest&utm_source=email&utm_content=documentary)
 
-> « Les biens communs ne sont pas q'une ressource . Ils sont une ressource plus une communauté définie et ldes protocoles, des valeurs et des normes élaborées par la communauté pour gérer ses ressources . De nombreuses ressources ont un besoin urgent d'être gérées comme biens communs , tels que l'atmosphère , les océans , les connaissances génétiques et de la biodiversité."
+ « Les biens communs ne sont pas qu'une ressource . Ils sont une ressource plus une communauté définie et ldes protocoles, des valeurs et des normes élaborées par la communauté pour gérer ses ressources . De nombreuses ressources ont un besoin urgent d'être gérées comme biens communs , tels que l'atmosphère , les océans , les connaissances génétiques et de la biodiversité."
