@@ -14,7 +14,7 @@ Designing a new approach (or not) in the relationship between man and nature.
 One thing mediated and facilitated by technology using a interpration language microflora. 
 An interaction based on the internal activity of the subject and the influences of external human activity.
 
-Nous essayons de rester en accord avec le [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md)
+Dans ce projet prospectif, nous essayons de rester en accord avec le [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md)
 
 Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project)
 
@@ -36,17 +36,17 @@ _**Installations, temps d'accélération et collaborations en prévision**_ :
 
 _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
-* Donner une forme de parole à des répresants du plus important règne du vivant : les bactéries et les micro algues
-* Rendre esthétique et contemplable ces repréentants // On en protège que ce que l'on connait et ce que l'on aime.
+* Donner une forme d'expression à des répresants du plus important règne du vivant : les bactéries et les micro-algues
+* Rendre esthétique et contemplable ces représentants du Vivant // On ne protège que ce que l'on connait et que ce que l'on aime.
 * Utiliser et enrichir une technologie émergente et acculturer à ses implications // coder ou être codés
-* Enclencher un programme de sciences citoyennes // Biologie, SHS, recheche eh design, énergie..
+* Enclencher un programme de sciences citoyennes // Biologie, SHS, recheche en design, énergie, urbanisme..
 * Co-concevoir des briques de systèmes énergétiques autonomes acentralisés biosourcés et préparer une économie de l'après pétrole
 
 ## Une culture de l'action comprenant / A culture of action including :
 
 * Do It Yourself (DIY) avec une première étape de construction la plus accesible et la plus simple possible. 
-* Do It Together (DIT) avec des phases 
-* Do It With Others (DIWO) par 
+* Do It Together (DIT) avec des phases d'opérations collectives 
+* Do It With Others (DIWO) par frotement entre les disciplines et les cultures de pratiques
 * Learning by doing
 * Open source devlopment
 
@@ -54,18 +54,21 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 * [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md), Fr
 
-
+-----------------------------------------------------------------------------------------------------------------
 Wanna help, join, question ?
 Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+-----------------------------------------------------------------------------------------------------------------
 
 # 1st step / 1ère étape 
 
 Monter un colone de Winogradsky
-Implementer un dispositif arduino avec capteurs pour mesurer en temps réel univers de données dans 7 zones différentes
+Implementer un dispositif arduino avec capteurs pour mesurer en temps réel les univers de données dans 7 zones différentes
 Connecter un Raspberry Pi pour traiter ces données, les placer dans un cloud sous licence publique.
-Transformer ces données en code puis en langage qui sera exprimé par des variations de couleurs dans les vétégaux et sur le sol un jardin publique au centre duquel trône la colonne.
+Transformer ces données en code puis en langage qui sera exprimé par des variations de couleurs dans les vétégaux et sur le sol d'un jardin publique au centre duquel trône la colonne.
 
 ![](https://framapic.org/YTzJrBtdoCJI/x3K3lyGGkRNd)
+
+* Co-conception of a governance network
 
 ### ressources nécessaires
 
@@ -93,9 +96,12 @@ Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogén
 ## 2dn step / 2ème étape
 
 Le dispositif intéragit avec les influences des activités humaines sur le jardin publique car elles moditfient la vie de la microflore de l'espace.
-Le dispositif en construit, implanter et mis en ouevre par des pairs avec des outils numériques
+Le dispositif est construit, implanté et mis en ouevre par des pairs avec des outils numériques.
+
 Les données collectées servent à établir les bases d'un smart contract pour intercommuniquer avec d'autres dispositifs connectés présents ailleurs sur la planète.
-UN comportement collectif adaptatif se met en place entre ByodIT et les humains fréquentant l'espace. Un démarrage de ce type de comprtement se met en place avec des pair de ByodIT.
+
+Un comportement collectif adaptatif se met en place entre ByodIT et les humains fréquentant l'espace. 
+Un démarrage de ce type de comportement se met en place avec des pairs du ByodIT.
 
 ![](https://framapic.org/jNriir8fuuMF/BJI0YIpaeJMB)
 
@@ -107,21 +113,25 @@ Connexion :
 
 * [Plantoid](http://www.plantoid-project.eu/)
 * [FloraRobotica](http://www.florarobotica.eu/) 
+* Others ???
 
 ## 3rd step / 3ème étape
 
-De nouveaux dispositifs ByodIT sont créés dans d'autres villes et ils sont mis en réseaux d'intéractions. 
-Le recueil et l'analyse de données de différents dispositifs ByodIT permettent de mesurer et comprendre la production d'énergie et de matière dans le dispositif.
+De nouveaux dispositifs ByodIT sont créés dans d'autres villes par d'autres collectifs et ils sont mis en réseaux d'intéractions. 
+
+Le recueil et l'analyse de données de différents dispositifs ByodIT permettent de mesurer et comprendre la production d'énergie et de matière par la microflore dans le dispositif.
+
 Les contrats intelligents et les implications de jardiniers numériques ou physiques sur le résaux permettent d'engager une communauté de pratiques.
 Cela permet de générer des fonds nécessaires à l'entretien des dispositifs vivants et au dévelopement de nouvelles instalations.
-Le recueil de l'analyse de données des inétractions via Blockchain des diférents dispositifs pairs permettent de comparer ces besoins en énergie avec les ressources en énergies produites.
+
+Le recueil de l'analyse de données des intéractions sur Blockchain des différents dispositifs pairs permettent de comparer les besoins en énergie avec les ressources en énergies produites par ByodIT.
 
 ![](https://framapic.org/bJPjDlg7gOLj/bjG8Kx50VLSs)
 
 * Echanger au delà de l'échelle locale
 * Grandir et développer le réseau de dispositif hybride
-* Engager des communautés de pratiques, générer un roulement financier basé sur la confiance humain/capital naturel/tech
-* Préparer les conditions d'équilibre et d'indépendance pour des études scientifiques citoyennes à aprtir des différentes instalations.
+* Engager des communautés de pratiques, générer un fonctionnement financier basé sur la confiance : humain/capital naturel/tech
+* Préparer les conditions d'équilibre et d'indépendance organisationnelle pour des études scientifiques citoyennes à partir des différentes instalations.
 
 ## 4th step / 4ème étape
 
@@ -130,26 +140,27 @@ Itération sur les futurs possibles des dispositifs et des réseaux
 
 ![](https://framapic.org/shTPGB8BtlfG/TDIwMAYhEErP)
 
-* Formaliser la contribution des experimentation à l'amélioration écologique de Blockchain
-* Consolider les documentations et ressources à dispositions
-* M.A.J des des dispositifs concernés
-* Prépartion d'une opération à grande échelle de DNA barcoding de microflore endémqiue sur les térritoires impliqués // sanctuarisation du patrimoine génétique des espèces, compréhension du vivant.
-* Tests des dispostifs autonomes en énergie grâce à l'activité interne de l'installation (ByodIT + jardin)
-* Mise en place de protocole expérimentaux de fourniture en énergie autonome propre pour blockchain à partir des prodctions des installations.
+* Formaliser la contribution des experimentations à l'amélioration écologique de Blockchain
+* Consolider les documentations et ressources à disposition
+* M.A.J des des dispositifs connectés concernés
+* Préparation d'une opération à grande échelle de DNA barcoding des microflores endémiques sur les térritoires impliqués // sanctuarisation du patrimoine génétique des espèces, compréhension du vivant avec dépot dans le domaine publique sous licence. 
+* Tests des dispostifs autonomes en énergie fournie par l'activité interne de l'installation (ByodIT + jardin)
+* Mise en place de protocoles expérimentaux de fourniture en énergie autonome propre pour blockchain à partir des productions des installations.
 
-## 5ht step / 5ème étape
+## 5th step / 5ème étape
 
 Le dialogue entre la microflore bactérienne et les personnes fréquant physiquement l'espace est prêt à être augmenté (VR, AR, nouveaux vocabulaire etc.)
-Une version 1.0 est prête à être passée à l'échelle avec des solutions énergétiques souples et adaptées.
+Une version 1.0 est prête pour passage à l'échelle avec des solutions énergétiques souples et adaptées.
+
 Les conditions sont réunies pour lancer différentes études scientifiques citoyennes.
 
-La biodiversité des sols qui représente une écarsante majorité des organisme vivant de la planète, et donc des enjeux societaux immenses, est mise au niveau de d'intéraction et de protection équivalent à dautres espéces plus grandes et en capacité d'expression perceptibles.
+La biodiversité des sols qui représente une écarsante majorité des organisme vivant de la planète, et donc des enjeux societaux immenses, est mise au niveau de d'intéraction et de protection équivalent à dautres espèces plus grandes et en capacité d'expression perceptible.
 
-Des actions de ré-investissement dans le capital naturel par culture de microflore sont facielemnt accessibles, reprodcutibles et appropriables.
+Des actions de ré-investissement dans le capital naturel par culture de microflore sont facilement accessibles, reprodcutibles et appropriables.
 
-Une Database internationale à la disposition de tous.
-Une preuve de concept de prodcution d'énergie propre et autoconsommation est fournie comme un Commun.
-Une amélioration écologique à la Blockchain est co-construite.
+Une Database internationale est à la disposition du plus grand nombre.
+Une preuve de concept de production d'énergie propre et autoconsommation est fournie comme un Commun.
+Une amélioration écologique de la Blockchain est co-construite.
 
 La diversité des dispositifs inspirés par ByodIT peut exploser et se répendre.
 
