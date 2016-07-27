@@ -39,4 +39,30 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 # 1st step / 1ère étape 
 
+
+
 ![](https://framapic.org/YTzJrBtdoCJI/x3K3lyGGkRNd)
+
+### ressources nécessaires
+
+Les couches de terres et d'eau seront obligatroirement en provenance du territoire locale de l'installation artistique et les couches seront représentatives du biotope local.
+
+>* une boue noire (car riche en sulfure de fer) provenant d'un tourbière par exemple ;
+* de l'eau stagnante (d'un marécage par exemple) ;
+* deux éprouvettes de 100 mL et des béchers ;
+* du papier cellophane ;
+* des morceaux de papier filtre, des agitateurs, des bracelets de caoutchouc ;
+* une source lumineuse (de couleur rouge de préférence) ;
+* deux gélules de polyvitamines ;
+* solutions : hydrogénocarbonate de sodium (NaHCO3), carbonate de calcium (CaCO3), 
+sulfate de calcium (CaSO4), chlorure d'ammonium (NH4Cl) ;
+* une solution tampon phosphate pH 7,3
+
+Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogénophosphate disodique anhydre (soit 9,47 g de Na2HPO4 par litre) et une solution de dihydrogénophosphate de potassium (soit 9,08 g de KH2PO4 par litre). Ensuite, on mélange 143 mL de Na2HPO4 avec 57 mL de KH2PO4 pour obtenir un pH de 7,3.
+
+
+>* Tube en plexiglass pour faire colonne de Winogradsky taille XL
+* 1 Arduino uno + 1 Raspberry Pi
+* 7 Bandes à led multicolore
+* Collaboration avec un espace de fabrication numérique
+
