@@ -18,7 +18,7 @@ Nous essayons de rester en accord avec le [We Are Biomers Manifesto](https://git
 
 Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project)
 
-Installations, temps d'accélération et collaborations en prévsion :
+_**Installations, temps d'accélération et collaborations en prévision**_ :
 
 * 2016
  * Rennes
