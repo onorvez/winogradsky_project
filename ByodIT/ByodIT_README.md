@@ -6,8 +6,8 @@ _**B**uild **Y**our **O**wn **De**vice for **I**nfra **T**errestrial_
 
 Il était une fois,
 La conception par le design d'une nouvelle approche (ou non) dans la relation entre l'homme et la nature. 
-Une tentative mise en médiation et facilitée par la technologie utilisant un interpration du langage de la microflore. 
-Une intéraction basée sur l'activité interne de l'objet et les influences des activité humaines extérieures.
+Une tentative mise en médiation et facilitée par la technologie utilisant un interprétation du langage de la microflore. 
+Une interaction basée sur l'activité interne de l'objet et les influences des activité humaines extérieures.
 
 Once Upon a Time,
 Designing a new approach (or not) in the relationship between man and nature. 
