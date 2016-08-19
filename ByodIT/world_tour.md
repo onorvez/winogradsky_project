@@ -1,5 +1,9 @@
 # Liste & Description des étapes d'instalation des ByodIT
 
+Asthetical Hybrid Living Device
+
+**B**uild **Y**our **O**wn **D**evice for **I**nfra **T**errestrial
+
 ![](https://framapic.org/dj77Zs14zpzd/wqqCr8anmKoq)
 
 ## 1st playground
