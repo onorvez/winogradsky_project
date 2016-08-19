@@ -1,8 +1,10 @@
 # Liste & Description des étapes d'instalation des ByodIT
 
+![](https://framapic.org/dj77Zs14zpzd/wqqCr8anmKoq)
+
 ## 1st playground
 
-Rennes, France, Octobre / Novembre 2016 pour 1er dispositif v 0.1 
+Rennes, France, Octobre / Novembre 2016 pour 1er dispositif v 0.1 et prépartion v 0.2
 
 ## 2nd Playground
 
