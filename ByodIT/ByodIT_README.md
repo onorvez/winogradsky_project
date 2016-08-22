@@ -2,7 +2,9 @@
 
 **Asthetical Hybrid Living Device**
 
-_**B**uild **Y**our **O**wn **De**vice for **I**nfra **T**errestrial_
+_**B**uild **Y**our **O**wn **De**vice for **I**nfra **T**errestrial_ :
+
+[Détails ici](https://github.com/LeBiome/winogradsky_project/blob/master/ByodIT/world_tour_map.md)
 
 Il était une fois,
 La conception par le design d'une nouvelle approche (ou non) dans la relation entre l'homme et la nature. 
