@@ -4,7 +4,9 @@
 
 _**B**uild **Y**our **O**wn **De**vice for **I**nfra **T**errestrial_ :
 
-[Détails ici](https://github.com/LeBiome/winogradsky_project/blob/master/ByodIT/world_tour_map.md)
+[Détails cartes et dates ici](https://github.com/LeBiome/winogradsky_project/blob/master/ByodIT/world_tour_map.md)
+
+[Master pad des notes collaboratives entre les villes](https://hackpad.com/ByodIT-collaboration-kp2xEYaBR85)
 
 Il était une fois,
 La conception par le design d'une nouvelle approche (ou non) dans la relation entre l'homme et la nature. 
