@@ -24,7 +24,7 @@ Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/L
 
 ![](https://framapic.org/dda8yS5yboM4/Ix5IwkyweOI1)
 
-_**Installations, temps d'accélération et collaborations en prévision**_ :
+_**Instalations, temps d'accélération et collaborations en prévision**_ :
 
 * 2016
  * Rennes
@@ -33,6 +33,7 @@ _**Installations, temps d'accélération et collaborations en prévision**_ :
 
 * 2017
  * Berlin
+ * Brussels
  * Toliara or  ?
  * Austin
 
