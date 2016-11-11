@@ -66,7 +66,7 @@ help, join, question ?
 Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
 
 ![](https://framapic.org/tdWHzC7wSvMr/bedAhCIVlz3o)
-
+_Merci à Erwan Rabenevanana, Thoams Desmares,Sarha Fortin, Gérald Mannaerts,Emmanuel Laurent pour l'aide à rélaisation de cette inforgraphie_
 -----------------------------------------------------------------------------------------------------------------
 
 # 1st step / 1ère étape 
