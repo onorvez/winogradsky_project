@@ -13,6 +13,12 @@ La conception par le design d'une nouvelle approche (ou non) dans la relation en
 Une tentative mise en médiation et facilitée par la technologie utilisant un interprétation du langage de la microflore. 
 Une interaction basée sur l'activité interne de l'objet et les influences des activité humaines extérieures.
 
+Plus de 95% de la biomasse se trouve sur les continents.
+
+Les bactéries et micoralgues en constituent probablement largement plus de 60 % (en termes de masse), et une grande partie en termes de nombre d'espèce.
+
+_Cynthia Graber (2015) Mining the hidden treasure of the world’s unknown bacteria Almost every known antibiotic came from 1 per cent of bacteria. Now we are learning how to grow the unknown microbes, and who knows what riches we’ll discover [archive], publié le 30 décembre 2015, par The New Scientist_
+
 Once Upon a Time,
 Designing a new approach (or not) in the relationship between man and nature. 
 One thing mediated and facilitated by technology using a interpration language microflora. 
