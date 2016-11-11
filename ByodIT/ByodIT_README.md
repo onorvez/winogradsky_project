@@ -61,9 +61,11 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 -----------------------------------------------------------------------------------------------------------------
 
-Wanna help, join, question ?
+help, join, question ?
 
 Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+
+![](https://framapic.org/tdWHzC7wSvMr/bedAhCIVlz3o)
 
 -----------------------------------------------------------------------------------------------------------------
 
