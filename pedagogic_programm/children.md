@@ -1,8 +1,14 @@
+---
+title: atelier sur la microflore des sols et le biomimétisme 
+description: destiné au scolaire de 12 à 18 ans
+image_url: https://framapic.org/uJtIaWlP5TDC/TlKPQLb0yjVH.jpg
+---
+
 # Children 
 
     // appelation de projet provisoire
 
-Niveau scolaire minimum requis : premier cycle
+Niveau scolaire minimum requis : premier cycle ou plus
 
 ## Résumé de l'activité :
 
