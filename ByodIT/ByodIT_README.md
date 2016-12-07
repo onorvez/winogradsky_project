@@ -1,3 +1,10 @@
+---
+tilte: Build Your Own Device for Infra Terrestrial
+description: Asthetical Hybrid Living Device
+image_url: https://framapic.org/yQZAu1ige7nx/1MxthIVi1c64.jpg
+---
+
+
 # ByodIT
 
 **Asthetical Hybrid Living Device**
