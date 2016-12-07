@@ -1,3 +1,9 @@
+---
+title: Introduction au projet
+description:  partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'éco Hacking, un programme pédagogique interdisciplinaire , des choses sympathiques d'art et Design.
+image_url: https://framapic.org/zzl2kNdFjVru/Itk01df0WGgl.jpg
+---
+
 # Winogradsky Project
 
 **ENG** : From a Winogradsky column we make citizen science, eco hacking, interdisciplinary pedagogic program, Design &amp; Art collaboration stuff
