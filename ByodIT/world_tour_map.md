@@ -1,3 +1,10 @@
+---
+title: Carte prévissionelle des semaines d'installation
+description: couplage du dispositif avec DAISEE et Blockchain -Début d'échange de données et  1er smart contract avec Byodit de Rennes et ByodIT de Lyon
+image_url: https://framapic.org/dj77Zs14zpzd/wqqCr8anmKoq
+---
+
+
 # Liste & Description des étapes d'instalation des ByodIT
 
 Asthetical Hybrid Living Device
