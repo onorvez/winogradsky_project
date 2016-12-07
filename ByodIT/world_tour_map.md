@@ -1,7 +1,7 @@
 ---
 title: Carte prévissionelle des semaines d'installation
 description: couplage du dispositif avec DAISEE et Blockchain -Début d'échange de données et  1er smart contract avec Byodit de Rennes et ByodIT de Lyon
-image_url: https://framapic.org/dj77Zs14zpzd/wqqCr8anmKoq
+image_url: https://framapic.org/J7ToDMwr0h1V/SH38ycjiUj1i.jpg
 ---
 
 
