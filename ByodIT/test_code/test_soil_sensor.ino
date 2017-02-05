@@ -1,5 +1,5 @@
-\\ Test your soil sensor
-\\ upload the following code using the Arduino IDE
+// Test your soil sensor
+// upload the following code using the Arduino IDE
 
 int inputPin = A0;
 /* The default dry and wet values for the sensor are 520 and 260 (no voltage divider). 
