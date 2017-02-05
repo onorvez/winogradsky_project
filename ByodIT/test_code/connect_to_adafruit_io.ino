@@ -1,18 +1,22 @@
-\\ This is largely taken from Adafruit's tutorial. It's almost entirely boilerplate, but what this code does is:
+// This is largely taken from Adafruit is tutorial
+// It is almost entirely boilerplate
+// but what this code does is
 
-\\ connect to your WiFi network
-\\ connect to Adafruit via WiFi
-\\ read data from your soil sensor
-\\ upload sensor data to Adafruit
+// connect to your WiFi network
+// connect to Adafruit via WiFi
+// read data from your soil sensor
+// upload sensor data to Adafruit
 
-\\ You will need to change the following variables in the code:
+// You will need to change the following variables in the code:
 
-\\ WLAN_SSID - this is the name of your WiFi network
-\\ WLAN_PASS - this is the password to your WiFi network
-\\ AIO_USERNAME - this is your adafruit.io username
-\\ AIO_KEY - this is your adafruit.io key
-\\ dryVal - from your previous code
-\\ wetVal - from your previous code
+// WLAN_SSID  this is the name of your WiFi network
+// WLAN_PASS  this is the password to your WiFi network
+// AIO_USERNAME  this is your adafruit.io username
+// AIO_KEY  this is your adafruit.io key
+// dryVal  from your previous code
+// wetVal  from your previous code
+
+// Play with IFTTT described at the end of code
 
 }
 
@@ -51,3 +55,11 @@ void connect() {
   Serial.println(F("Adafruit IO Connected!"));
 
 }
+
+// IFTTT (If This, Then That) is a wonderful, free service that lets you connect things together. And Adafruit.io has IFTTT integration! We're going to create an IFTTT applet: if our humidity feed on Adafruit.io is <5, then send a text message.
+
+// If you don't already have an IFTTT account, create one: https://ifttt.com/
+
+// Then, create a new "applet." Click on the "this", search for Adafruit, and then select "Monitor a feed on Adafruit IO".
+
+// For the "that" portion, you can either set up notifications via the IFTTT application, or text messages, or email, or...you get the idea. Give it a try!
