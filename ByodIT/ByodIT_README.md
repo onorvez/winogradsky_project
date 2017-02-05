@@ -39,12 +39,12 @@ Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/L
 
 _**Instalations, temps d'accélération et collaborations en prévision**_ :
 
-* 2016
+* 2017
  * Rennes
  * Lyon
  * Londres
 
-* 2017
+* 2018
  * Berlin
  * Brussels
  * Toliara or  ?
