@@ -10,7 +10,7 @@ image_url: https://framapic.org/zzl2kNdFjVru/Itk01df0WGgl.jpg
 
 **FR** : A partir d'une colonne Winogradsky nous faisons de la science citoyenne , de l'éco Hacking, un programme pédagogique interdisciplinaire , des choses sympathiques d'art et Design.
 
-![](https://framapic.org/w3T4igSgisol/FcgFzZMBZC4n)
+![](https://framapic.org/GxuRd6HWR162/WqyF3WqRzwz7.jpg)
 
 * What' a Winogradsky column :
  * [English wiki](https://en.wikipedia.org/wiki/Winogradsky_column)
