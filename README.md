@@ -41,6 +41,6 @@ L'ensemble des ces dépots sont enregistrés sous licence:
 
 D'autres licences et d'autres droits peuvent s'appliquer à des codes, formules, documents, ressources, contenus à l'intérieur de ces dépôts.
 
-Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+Pour toutes questions et renseignements: _**lebiome.hacklab@protonmail.com**_
 
-![](https://framapic.org/QxzLrXWSTrJL/IQsUaaMP3fvQ)
+![](https://framapic.org/nsPSreMc4qcm/jEl6q0mn6taO.jpg)
