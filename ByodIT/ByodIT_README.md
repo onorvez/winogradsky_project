@@ -34,7 +34,7 @@ Dans ce projet prospectif, nous essayons de rester en accord avec le [We Are Bio
 
 Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project)
 
-![](https://framapic.org/dda8yS5yboM4/Ix5IwkyweOI1)
+![](https://framapic.org/r7LQM6MMd120/Iru5vhlQuUev.jpg)
 
 _**Instalations, temps d'accélération et collaborations en prévision**_ :
 
@@ -75,9 +75,9 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 help, join, question ?
 
-Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
+Pour toutes questions et renseignements: _**lebiome.hacklab@protonmail.com**_
 
-![](https://framapic.org/tdWHzC7wSvMr/bedAhCIVlz3o)
+![](https://framapic.org/EWp31StX75i2/4NfUI7RhOA46.jpg)
 
 _Merci à Erwan Rabenevanana, Thoams Desmares,Sarha Fortin, Gérald Mannaerts,Emmanuel Laurent pour l'aide à réalisation de cette inforgraphie_
 
@@ -127,7 +127,7 @@ Les données collectées servent à établir les bases d'un smart contract pour 
 Un comportement collectif adaptatif se met en place entre ByodIT et les humains fréquentant l'espace. 
 Un démarrage de ce type de comportement se met en place avec des pairs du ByodIT.
 
-![](https://framapic.org/jNriir8fuuMF/BJI0YIpaeJMB)
+![](https://framapic.org/BlNgVTRKmW3M/0KsNmPkWZpUV.jpg)
 
 * Highliht the bacterial microflora of soil, micro algae in the earth, with interactive digital interface
 * Aesthetize their roles in the balace of ecosystems
@@ -150,7 +150,7 @@ Cela permet de générer des fonds nécessaires à l'entretien des dispositifs v
 
 Le recueil de l'analyse de données des intéractions sur Blockchain des différents dispositifs pairs permettent de comparer les besoins en énergie avec les ressources en énergies produites par ByodIT.
 
-![](https://framapic.org/zDMIPSI46ezn/SDkWtOxqSNAv.jpg)
+![](https://framapic.org/y9U2atYZG9F2/lN1vGFKwFlQR.jpg)
 
 * Echanger au delà de l'échelle locale
 * Grandir et développer le réseau de dispositif hybride
