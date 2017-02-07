@@ -79,7 +79,7 @@ Pour toutes questions et renseignements: _**lebiome.hacklab@protonmail.com**_
 
 ![](https://framapic.org/EWp31StX75i2/4NfUI7RhOA46.jpg)
 
-_Merci à Erwan Rabenevanana, Thoams Desmares,Sarha Fortin, Gérald Mannaerts,Emmanuel Laurent pour l'aide à réalisation de cette inforgraphie_
+_Merci à Erwan Rabenevanana, Thomas Desmares,Sarha Fortin, Gérald Mannaerts,Emmanuel Laurent pour l'aide à réalisation de cette inforgraphie_
 
 
 
