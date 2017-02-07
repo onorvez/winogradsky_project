@@ -71,7 +71,7 @@ _Réconcilier l'Humain et la Nature, resynchroniser technosphère et biosphère_
 
 * [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md), Fr
 
------------------------------------------------------------------------------------------------------------------
+
 
 help, join, question ?
 
@@ -81,7 +81,7 @@ Pour toutes questions et renseignements: _**lebiomefablab@gmail.com**_
 
 _Merci à Erwan Rabenevanana, Thoams Desmares,Sarha Fortin, Gérald Mannaerts,Emmanuel Laurent pour l'aide à réalisation de cette inforgraphie_
 
------------------------------------------------------------------------------------------------------------------
+
 
 # 1st step / 1ère étape 
 
