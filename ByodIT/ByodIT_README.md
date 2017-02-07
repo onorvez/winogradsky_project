@@ -11,7 +11,6 @@ image_url: https://framapic.org/yQZAu1ige7nx/1MxthIVi1c64.jpg
 
 _**B**uild **Y**our **O**wn **De**vice for **I**nfra **T**errestrial_ :
 
-[Détails cartes et dates ici](https://github.com/LeBiome/winogradsky_project/blob/master/ByodIT/world_tour_map.md)
 
 [Master pad des notes collaboratives entre les villes](https://hackpad.com/ByodIT-collaboration-kp2xEYaBR85)
 
@@ -91,7 +90,7 @@ Implementer un dispositif arduino avec capteurs pour mesurer en temps réel les 
 Connecter un Raspberry Pi pour traiter ces données, les placer dans un cloud sous licence publique.
 Transformer ces données en code puis en langage qui sera exprimé par des variations de couleurs dans les vétégaux et sur le sol d'un jardin publique au centre duquel trône la colonne.
 
-![](https://framapic.org/YTzJrBtdoCJI/x3K3lyGGkRNd)
+![](https://framapic.org/sLmrCVZGvs2e/DJSoF7uXtc1O.jpg)
 
 * Co-conception of a governance network
 
@@ -151,7 +150,7 @@ Cela permet de générer des fonds nécessaires à l'entretien des dispositifs v
 
 Le recueil de l'analyse de données des intéractions sur Blockchain des différents dispositifs pairs permettent de comparer les besoins en énergie avec les ressources en énergies produites par ByodIT.
 
-![](https://framapic.org/bJPjDlg7gOLj/bjG8Kx50VLSs)
+![](https://framapic.org/zDMIPSI46ezn/SDkWtOxqSNAv.jpg)
 
 * Echanger au delà de l'échelle locale
 * Grandir et développer le réseau de dispositif hybride
@@ -163,7 +162,7 @@ Le recueil de l'analyse de données des intéractions sur Blockchain des différ
 Itération sur les précédentes étapes et les forks possiblement réalisés
 Itération sur les futurs possibles des dispositifs et des réseaux
 
-![](https://framapic.org/shTPGB8BtlfG/TDIwMAYhEErP)
+![](https://framapic.org/UnKEwOepyfFK/AgmsB0whsHly.jpg)
 
 * Formaliser la contribution des experimentations à l'amélioration écologique de Blockchain
 * Consolider les documentations et ressources à disposition
@@ -189,7 +188,7 @@ Une amélioration écologique de la Blockchain est co-construite.
 
 La diversité des dispositifs inspirés par ByodIT peut exploser et se répendre.
 
-![](https://framapic.org/1V6x3SEU6J8Q/1bbPDnMRZrGd)
+![](https://framapic.org/6d1rPNEDci8f/qsjLAyttrtPS.jpg)
 
 
 
