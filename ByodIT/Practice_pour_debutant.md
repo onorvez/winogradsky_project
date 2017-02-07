@@ -1,3 +1,10 @@
+---
+title: Practice pour débutant
+description: Découvrir et pratiquer le monitoring de sol - Tuto
+image_url: https://framapic.org/DpALMj4XtTCp/wTYgiZa5Xpcg.jpg
+---
+
+
 # [[#BretagneLabTour](https://hackpad.com/ep/search/?q=%23BretagneLabTour&via=tPQn73EJTY4)] Atelier de construction d'un kit de mesure / suivi d'humidité d'une bouture aromatique
 
 Pour le #BretagneLabTour, le [LabFab](http://labfab.fr) de Rennes a accueilli le 16 octobre 2015 un atelier dédié à la fabrication d'un kit de mesure de température et humidité sur une bouture de plante aromatique.
@@ -5,7 +12,7 @@ Pour le #BretagneLabTour, le [LabFab](http://labfab.fr) de Rennes a accueilli le
 *   Ce projet devrait intéresser [Nomade des Mers ](http://nomadedesmers.org/)pour leur culture potagère sur un bateau. Pour rappel, le [#BretagneLabTour](https://hackpad.com/ep/search/?q=%23BretagneLabTour&via=z8dtT2HL8ik) est passé par Concarneau le vendredi 9 octobre (cf. ce [PAD](https://hackpad.com/BretagneLabTour-3me-tape-Concarneau-Explore-9-octobre-qfpS66vvoQx)).
 *
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_z8dtT2HL8ik_p.62368_1444987654525_Photo 16-10-2015 11 17 09.jpg)
+![](https://framapic.org/DpALMj4XtTCp/wTYgiZa5Xpcg.jpg)
 
 L'atelier s'est appuyé sur une carte électronique [Particle.io](https://www.particle.io), sous la conduite de [Thomas](https://fr.linkedin.com/in/thomasmeghe) (LabFab).
 
